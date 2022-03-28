@@ -1,0 +1,19 @@
+p {
+  font-family: Lato;
+}
+
+.sidenav {
+  padding-right: 1rem;
+  height: 88vh;
+  background-color: lightgray;
+}
+
+.example-container {
+  padding: 2rem;
+}
+
+.demo-container {
+  border: solid;
+  border-radius: 1rem;
+  padding: 1rem;
+}

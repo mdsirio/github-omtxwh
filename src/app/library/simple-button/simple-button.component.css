@@ -1,0 +1,11 @@
+.awesome-button {
+  background-color: lightblue;
+  border: none;
+  border-radius: 0.5rem;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}

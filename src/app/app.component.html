@@ -1,0 +1,25 @@
+<div fxLayout="column" class="demo-container">
+  <h2>AWEsome library demo</h2>
+  <div fxLayout>
+    <nav class="sidenav">
+      <ul>
+        <li>
+          <a routerLink="/simple-button-example" routerLinkActive="active"
+            >Simple Button Example</a
+          >
+        </li>
+        <li>
+          <a routerLink="/simple-textbox-example" routerLinkActive="active"
+            >Simple Textbox Example</a
+          >
+        </li>
+        <li>
+          <a routerLink="/playground" routerLinkActive="active">Playground</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="example-container">
+      <router-outlet></router-outlet>
+    </div>
+  </div>
+</div>
